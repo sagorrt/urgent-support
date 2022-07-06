@@ -1,6 +1,241 @@
+
 body{
   font-family: 'Poppins', sans-serif;
+  margin:0px;
 }
+
+
 .button{
   text-decoration: none;
+  background-color: #FF5959;
+  color:#ffffff;
+  font-weight: 500px;
+  padding: 10px 20px;
+  border-radius: 5px;
 }
+
+
+#top-banner{
+  background-image: url(images/photos/donation13.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+}
+
+
+.centered-text{
+  text-align: center;
+  padding-top: 200px;
+  color: #ffffff;
+  font-weight: 10px;
+}
+
+
+.centered-text h6{
+  margin-top: -15px;
+  color:#d1cfcf;
+  font-weight: lighter;
+}
+
+
+.donate-today{
+  padding-top: 50px;
+  color:black; 
+}
+
+
+.donate-today h6{
+  margin-top: -10px;
+  color: #707070;
+}
+
+
+.amount-option {
+ margin-left: auto;
+ margin-right: auto;
+}
+
+
+ .amount-option input{
+  width: 65px;
+  height: 50px;
+  background-color: rgba(248, 244, 244, 0.801);
+  color: #707070;
+  font-weight: 700;
+  border:0px;
+  
+ }
+
+ 
+ #pink-border{
+  border: 2px solid #fc5454;
+  background-color: #f8a2a2;
+ }
+
+
+ .other-amount{
+  margin-top: -40px;
+ }
+
+
+.other-amount input{
+  width: 425px;
+  height: 50px;
+  background-color: white;
+  color: #707070;
+  font-weight: 700;
+  border-bottom: 2px solid #d1cfcf;
+}
+
+
+.amount-button{
+  text-align: center;
+  padding-top: 0px;
+  color: #ffffff;
+  font-weight: 10px;
+}
+
+
+.donation-programme{
+  text-align: center;
+  padding-top: 80px;
+  padding-left: 5%;
+  color: black;
+  font-weight: 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+
+.donation-programme h6{
+  margin-top: -10px;
+  color: #707070;
+}
+
+
+.flexible-container{
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 90%;
+  display: flex;
+  
+}
+
+
+.plan-option{
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: #eafafcec;
+  padding: 15px;
+}
+
+.food-plan{
+  width:30%;
+  margin-left: 50px;
+  margin-right: 50px;
+  
+  padding: 15px;
+}
+.shelter-plan{
+  width:30%;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: #faf0f0;
+  padding: 15px;}
+
+
+.education-plan{
+  width:30%;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: #faf3dcf1;
+  padding: 15px;}
+
+
+  .donation-importance{
+    margin-top: 120px ;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .half-width{
+    width: 45%;
+    padding-right: 100px;
+  }
+
+
+  .half-width h6{
+    color: #707070;
+  }
+  
+
+  .half-width img{
+    width: 80%;
+  }
+  
+  .contributon-system{
+    text-align: left;
+    padding-top: 0px;
+    color: #ffffff;
+    font-weight: 10px;
+  }
+
+
+  .email-button{
+  background-color: #d3d2d2ea;
+  color:#797878;
+  font-weight: 500px;
+  padding: 10px 20px;
+  
+  border:none;
+  }
+
+  .subscribe-button{
+    border:none;
+    background-color: #fc5454;
+    color: white;
+    font-weight: 500px;
+    padding: 10px 20px;
+  }
+
+  #subs-button{
+    border: none;
+  }
+
+  .form-bground{
+    padding-top:50px;
+   
+    padding-right: auto;
+    background-color: #f7e4bbfb;
+    height: 90px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 60px;
+    
+
+  }
+  .form-bground table{
+    margin: auto;
+  }
+  
+
+  .footer-content{
+    padding-top: 5px;
+    padding-bottom: 5%;
+    height: 80px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: #ffffff;
+  }
+
+  .footer-content h1{
+    color: #FF5959;
+    font-family: 'Tangerine', cursive;
+    font-weight:bolder;
+  }
