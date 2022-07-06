@@ -184,6 +184,33 @@ body{
   }
 
 
+  .follow-us{
+    margin-left: 35%;
+    margin-right: 35%;
+    width: 30%;
+    height: 300px;
+    background-color: #fab2b2;
+    text-align: center;
+    padding-top: 5px;
+    margin-top: 120px;
+
+  }
+
+  
+
+  .follow-us h3{
+    text-decoration: underline;
+  }
+
+  #face-book{
+    background-color: gray;
+    padding: 50px 20px;
+    text-align: center;
+
+   
+  }
+
+
   .email-button{
   background-color: #d3d2d2ea;
   color:#797878;
